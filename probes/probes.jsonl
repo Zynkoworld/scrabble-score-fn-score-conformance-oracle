@@ -1,0 +1,8 @@
+{"input": "a", "expect": 1, "task": "scrabble-score", "lang": "python"}
+{"input": "A", "expect": 1, "task": "scrabble-score", "lang": "python"}
+{"input": "f", "expect": 4, "task": "scrabble-score", "lang": "python"}
+{"input": "at", "expect": 2, "task": "scrabble-score", "lang": "python"}
+{"input": "zoo", "expect": 12, "task": "scrabble-score", "lang": "python"}
+{"input": "street", "expect": 6, "task": "scrabble-score", "lang": "python"}
+{"input": "quirky", "expect": 22, "task": "scrabble-score", "lang": "python"}
+{"input": "OxyphenButazone", "expect": 41, "task": "scrabble-score", "lang": "python"}
